@@ -32,19 +32,20 @@ To get a local copy of the project up and running, follow these steps:
 2. **Navigate to the project directory:**
    cd management-dashboard
 
-3.**Install dependencies:**
+3. **Install dependencies:**
    npm install
 
-4.**Run the application:**
+4. **Run the application:**
    npm run dev
 
 
-5.**Open your browser and visit:**
-    http://localhost:5173
+5. **Open your browser and visit:**
+   http://localhost:5173
 
 
 ## Usage
 -**Adding a Category:** Navigate to the category management section and use the form to add a new category.
+
 -**Adding a Widget:** Click on the +Add Widget button, fill in the widget name and text, and assign it to a category.
 
 
