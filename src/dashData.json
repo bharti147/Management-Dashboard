@@ -1,43 +1,42 @@
 {
-    "categories": [
-      {
-        "id": "1",
-        "name": "Category 1",
-        "widgets": [
-          {
-            "id": "1",
-            "name": "Widget 1",
-            "text": "Sample Text for W1C1"
-          },
-          {
-            "id": "2",
-            "name": "Widget 2",
-            "text": "Sample Text for W1C2"
-          }
-        ]
-      },
-      {
-        "id": "2",
-        "name": "Category 2",
-        "widgets": [
-          {
-            "id": "1",
-            "name": "Widget 1",
-            "text": "Sample Text for W2C1"
-          }
-        ]
-      },
-      {
-        "id": "3",
-        "name": "Category 3",
-        "widgets": [
-          {
-            "id": "1",
-            "name": "Widget 1",
-            "text": "Sample Text for W1C3"
-          }
-        ]
-      }
-    ]
-  }
-  
+  "categories": [
+    {
+      "id": "1",
+      "name": "Category 1",
+      "widgets": [
+        {
+          "id": "1",
+          "name": "Widget 1",
+          "text": "Sample Text for W1C1"
+        },
+        {
+          "id": "2",
+          "name": "Widget 2",
+          "text": "Sample Text for W1C2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Category 2",
+      "widgets": [
+        {
+          "id": "1",
+          "name": "Widget 1",
+          "text": "Sample Text for W2C1"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Category 3",
+      "widgets": [
+        {
+          "id": "1",
+          "name": "Widget 1",
+          "text": "Sample Text for W1C3"
+        }
+      ]
+    }
+  ]
+}

@@ -44,7 +44,7 @@ const addWidgetHandler = () => {
   return (
     <div className="w-full flex flex-col items-center h-screen dark:bg-gray-900 dark:text-white">
       <Navbar />
-      <div className="flex justify-between items-center w-full h-auto m-0  ">
+      <div className="md:flex justify-between items-center w-full h-auto m-0  hidden  ">
         <h1 className="font-bold text-xl px-5 py-1 my-2 ">CNAPP Dashboard</h1>
         <div className="flex justify-evenly items-center  h-full w-auto">
           <Button onClick = {addWidgetHandler}>
